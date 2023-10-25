@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Merveilles
-- 👀 
+- 👋 Hi, I’m Merveilles Biende Katumba
+- 👀 HTML|CSS|Python|C|C++
 - 🌱 Computer Science
-- 💞️ Nada
+- 💞️ Nada|Family
 - 📫 merveilleskatumba@gmail.com
 - 👀 
 
