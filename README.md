@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Merveilles Biende Katumba
-- 👀 HTML|CSS|Python|C|C++
-- 🌱 Computer Science
-- 💞️ Nada|Family
-- 📫 merveilleskatumba@gmail.com
+- 👋 Hi, I’m Merveilles Biende Katumba.
+- 2 years of Electrical Engineering before switching to CS.
+- 👀 HTML | CSS | Python | C | C++.
+- 🌱 Computer Science.
+- 💞️ Nada | Family.
+- 📫 merveillesbiendekatumba@gmail.com
 - 👀 
 
 <!---
